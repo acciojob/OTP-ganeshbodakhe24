@@ -9,6 +9,9 @@ body{
 #verification_heading{
 	margin:5px 0px;
 }
+.code-container{
+	color:black;
+}
 #verification_subtext{
 	margin:5px 0px;
 }
