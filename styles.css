@@ -36,3 +36,6 @@ body{
 	background-color:rgb(244,232,255);
 	
 }
+.focused {
+  outline: 2px solid #0092b8;
+}
