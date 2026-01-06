@@ -1,1 +1,35 @@
-/*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+	font-family: 'Poppins', sans-serif;
+}
+body{
+	text-align:center;
+}
+#verification_heading{
+	margin:5px 0px;
+}
+#verification_subtext{
+	margin:5px 0px;
+}
+.code{
+	width:50px;
+	height:50px;
+	padding:2px;
+	font-size:45px;
+	text-align:center;
+}
+.code::-webkit-inner-spin-button,
+.code::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+.footer{
+	margin:auto;
+	margin-top:30px;
+	width:400px;
+	padding:4px;
+	background-color:rgb(244,232,255);
+	
+}
